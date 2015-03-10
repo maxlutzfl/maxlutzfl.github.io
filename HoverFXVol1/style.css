@@ -30,6 +30,13 @@ header {
 }
 header a {
 	text-decoration:none;
+	color:#FFB800;
+}
+header a:hover {
+	color:#fff;
+	transition:300ms ease;
+	-webkit-transition:300ms ease;
+	-moz-transition:300ms ease;
 }
 .page-title a {
 	color:#fff;
@@ -37,3 +44,13 @@ header a {
 .page-subtitle {
 	color:#FFB800;
 }
+.social-links a {
+	color:#FFB800;
+}
+
+
+
+
+
+
+
