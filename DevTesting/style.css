@@ -1,0 +1,45 @@
+/*
+Theme Name:
+Theme URI: 
+Author: 
+Author URI: 
+Description: 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bcore
+Tags: 
+
+*/
+/*-------------------
+1.0 Header
+-------------------*/
+html {
+  margin: 0;
+  padding: 0;
+  box-shadow: 0px 0px #000;
+  -webkit-transform: translateY(-10%);
+      -ms-transform: translateY(-10%);
+          transform: translateY(-10%);
+  -webkit-transition: 300ms ease;
+          transition: 300ms ease; }
+
+/*-------------------
+2.0 Header
+-------------------*/
+header {
+  text-align: center;
+  color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+/*-------------------
+3.0 Footer
+-------------------*/
+footer {
+  background: #000; }
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLmNzcyIsInJlc2V0LnNjc3MiLCJoZWFkZXIuc2NzcyIsImZvb3Rlci5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7Ozs7Ozs7R0FZRTtBQUNGOztzQkFFcUI7QUNmckI7RUFDQyxXQUFPO0VBQ0MsWUFBQTtFQUNSLDBCQUFXO0VBQ1gscUNBQVU7TUFBVixpQ0FBVTtVQUFWLDZCQUFVO0VBQ0MsZ0NBQUE7VUFBQSx3QkFBQSxFQUFBOztBRGtCWjs7c0JBRXFCO0FFekJyQjtFQUNDLG9CQUFXO0VBQ0wsYUFBQTtFQUNOLHNCQUFRO0VBQVIsdUJBQVE7RUFBUixzQkFBUTtFQUFSLGVBQVEsRUFBQTs7QUY0QlQ7O3NCQUVxQjtBR2pDckI7RUFDQyxrQkFBVyxFQUFBIiwiZmlsZSI6InN0eWxlLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG5UaGVtZSBOYW1lOlxuVGhlbWUgVVJJOiBcbkF1dGhvcjogXG5BdXRob3IgVVJJOiBcbkRlc2NyaXB0aW9uOiBcblZlcnNpb246IDEuMFxuTGljZW5zZTogR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgdjIgb3IgbGF0ZXJcbkxpY2Vuc2UgVVJJOiBodHRwOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvZ3BsLTIuMC5odG1sXG5UZXh0IERvbWFpbjogYmNvcmVcblRhZ3M6IFxuXG4qL1xuLyotLS0tLS0tLS0tLS0tLS0tLS0tXG4xLjAgSGVhZGVyXG4tLS0tLS0tLS0tLS0tLS0tLS0tKi9cbmh0bWwge1xuICBtYXJnaW46IDA7XG4gIHBhZGRpbmc6IDA7XG4gIGJveC1zaGFkb3c6IDBweCAwcHggIzAwMDtcbiAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC0xMCUpO1xuICB0cmFuc2l0aW9uOiAzMDBtcyBlYXNlOyB9XG5cbi8qLS0tLS0tLS0tLS0tLS0tLS0tLVxuMi4wIEhlYWRlclxuLS0tLS0tLS0tLS0tLS0tLS0tLSovXG5oZWFkZXIge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gIGNvbG9yOiAjZmZmO1xuICBkaXNwbGF5OiBmbGV4OyB9XG5cbi8qLS0tLS0tLS0tLS0tLS0tLS0tLVxuMy4wIEZvb3RlclxuLS0tLS0tLS0tLS0tLS0tLS0tLSovXG5mb290ZXIge1xuICBiYWNrZ3JvdW5kOiAjMDAwOyB9XG5cbiIsImh0bWwge1xuXHRtYXJnaW46MDtcblx0cGFkZGluZzowO1xuXHRib3gtc2hhZG93OjBweCAwcHggIzAwMDtcblx0dHJhbnNmb3JtOnRyYW5zbGF0ZVkoLTEwJSk7XG5cdHRyYW5zaXRpb246MzAwbXMgZWFzZTtcbn0iLCJoZWFkZXIge1xuXHR0ZXh0LWFsaWduOmNlbnRlcjtcblx0Y29sb3I6I2ZmZjtcblx0ZGlzcGxheTpmbGV4O1xufSIsImZvb3RlciB7XG5cdGJhY2tncm91bmQ6IzAwMDtcbn0iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */
