@@ -172,6 +172,12 @@ footer#footer li {
 	font-size:14px;
 }
 
+article main p {
+	font-family: "roboto slab";
+	font-size: 14px;
+	margin: 0 0 50px 0;
+}
+
 /*-------------------------------------
 Demos
 -------------------------------------*/
