@@ -114,6 +114,12 @@ article#article {
 	font-family: 'Roboto Slab', serif;
 	font-size: 20px;
 }
+.back-button {
+	font-size: 14px;
+	text-decoration: none;
+	margin: 0 0 10px 0;
+	color: #ccc;
+}
 
 
 /*-------------------------------------
