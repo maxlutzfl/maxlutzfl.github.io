@@ -94,6 +94,9 @@ header#header a:hover {
 }
 .social-links a {
 	color:#FFB800;
+	font-size:34px;
+	padding:5px;
+	margin:0 5px;
 }
 
 
