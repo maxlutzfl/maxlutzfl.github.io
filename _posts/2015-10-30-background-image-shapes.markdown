@@ -3,8 +3,12 @@ layout: post
 title: "Background Image Shapes"
 date: 2015-10-30
 categories: animation
+type: link
 ---
 
-[Background Image Shapes][link-1]
-
-[link-1]: https://css-tricks.com/background-image-shapes/
+<h2>
+	<a href="https://css-tricks.com/background-image-shapes/" target="_blank">
+		Background Image Shapes
+		<span>October 30, 2015</span>
+	</a>
+</h2>

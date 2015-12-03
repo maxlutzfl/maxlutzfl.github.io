@@ -5,8 +5,12 @@ layout: default
 <div class="home">
 	<ul class="post-list">
 		{% for post in site.posts %}
-			<li>
-				<h1>{{ post.content }} <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></h1>
+			<li class="post-link">
+				{% if post.type == "link" %}
+					{{ post.content }}
+				{% elsif post.type == "post" %} 
+					<h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+				{% endif %}
 			</li>
 		{% endfor %}
 	</ul>

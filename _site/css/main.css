@@ -148,12 +148,14 @@ pre {
   list-style: none; }
   .post-list li {
     display: block; }
-  .post-list h1 a {
+  .post-list h2 a {
     color: #333; }
-  .post-list h1 p {
+  .post-list h2 span {
+    font-size: 14px; }
+  .post-list h2 p {
     display: inline;
     font-size: 1.5rem; }
-  .post-list h1 .post-meta {
+  .post-list h2 .post-meta {
     font-size: 1rem;
     color: #999; }
 

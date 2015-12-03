@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Testing Post Type"
+date:   2015-12-01
+categories: animation
+type: post
+---
+
+aasefasefsef

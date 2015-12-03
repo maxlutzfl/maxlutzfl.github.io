@@ -3,8 +3,8 @@ layout: post
 title:  "Animating Your Brand"
 date:   2015-12-01
 categories: animation
+type: link
 ---
 
-[Animating Your Brand][link-1]
+## <a href="https://24ways.org/2015/animating-your-brand/" target="_blank">Animating Your Brand <span>Dec 01 2015</span></a>
 
-[link-1]: https://24ways.org/2015/animating-your-brand/
