@@ -11,8 +11,8 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
+  font: 400 16px/1.5 "Karla", Helvetica, Arial, sans-serif;
+  color: #333;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -60,19 +60,19 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-weight: 400;
+  transition: 300ms; }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #333; }
 
 /**
  * Links
  */
 a {
-  color: #2a7ae2;
-  text-decoration: none; }
-  a:visited {
-    color: #1756a9; }
+  text-decoration: none;
+  transition: 300ms; }
   a:hover {
-    color: #111;
-    text-decoration: underline; }
+    color: #286AD4; }
 
 /**
  * Blockquotes
@@ -148,8 +148,6 @@ pre {
   list-style: none; }
   .post-list li {
     display: block; }
-  .post-list h2 a {
-    color: #333; }
   .post-list h2 span {
     font-size: 14px; }
   .post-list h2 p {
