@@ -6,11 +6,19 @@ layout: default
 	<ul class="post-list">
 		{% for post in site.posts %}
 			<li class="post-link">
+
 				{% if post.type == "link" %}
-					{{ post.content }}
+					<h2>
+						<a href="{{ post.source }}" target="_blank">
+							{{ post.title }} <span>{{ post.date | date: '%B %d, %Y' }}</span>
+						</a>
+					</h2>
+
 				{% elsif post.type == "post" %} 
 					<h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+
 				{% endif %}
+
 			</li>
 		{% endfor %}
 	</ul>
