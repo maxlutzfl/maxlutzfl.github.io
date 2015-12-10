@@ -5,9 +5,63 @@
     <description></description>
     <link>http://maxlutz.com/</link>
     <atom:link href="http://maxlutz.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Dec 2015 17:47:43 -0500</pubDate>
-    <lastBuildDate>Thu, 03 Dec 2015 17:47:43 -0500</lastBuildDate>
+    <pubDate>Thu, 10 Dec 2015 13:19:51 -0500</pubDate>
+    <lastBuildDate>Thu, 10 Dec 2015 13:19:51 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>PHP-FIG</title>
+        <description>
+</description>
+        <pubDate>Thu, 10 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://maxlutz.com/php/2015/12/10/php-fig.html</link>
+        <guid isPermaLink="true">http://maxlutz.com/php/2015/12/10/php-fig.html</guid>
+        
+        
+        <category>php</category>
+        
+      </item>
+    
+      <item>
+        <title>The Trello Tech Stack</title>
+        <description>
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://maxlutz.com/articles/2015/12/07/trello.html</link>
+        <guid isPermaLink="true">http://maxlutz.com/articles/2015/12/07/trello.html</guid>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Easy Peasy Equal Heights</title>
+        <description>
+</description>
+        <pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://maxlutz.com/javascript/tricks/2015/12/06/equal-heights.html</link>
+        <guid isPermaLink="true">http://maxlutz.com/javascript/tricks/2015/12/06/equal-heights.html</guid>
+        
+        
+        <category>javascript</category>
+        
+        <category>tricks</category>
+        
+      </item>
+    
+      <item>
+        <title>Christmas 2015</title>
+        <description>
+</description>
+        <pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://maxlutz.com/stories/2015/12/06/christmas.html</link>
+        <guid isPermaLink="true">http://maxlutz.com/stories/2015/12/06/christmas.html</guid>
+        
+        
+        <category>stories</category>
+        
+      </item>
     
       <item>
         <title>Creating a Web Type Lockup</title>
