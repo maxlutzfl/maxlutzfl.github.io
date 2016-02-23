@@ -5,9 +5,22 @@
     <description></description>
     <link>http://maxlutz.com/</link>
     <atom:link href="http://maxlutz.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Dec 2015 13:19:51 -0500</pubDate>
-    <lastBuildDate>Thu, 10 Dec 2015 13:19:51 -0500</lastBuildDate>
+    <pubDate>Tue, 23 Feb 2016 17:11:37 -0500</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2016 17:11:37 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>HTML5 Form Elements</title>
+        <description>
+</description>
+        <pubDate>Tue, 23 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://maxlutz.com/html/2016/02/23/html5-form-elements.html</link>
+        <guid isPermaLink="true">http://maxlutz.com/html/2016/02/23/html5-form-elements.html</guid>
+        
+        
+        <category>html</category>
+        
+      </item>
     
       <item>
         <title>PHP-FIG</title>
